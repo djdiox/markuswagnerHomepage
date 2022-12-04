@@ -1,5 +1,11 @@
 # speedlify
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db9c57d3-4ea8-47ea-8055-05d242f0f793/deploy-status)](https://app.netlify.com/sites/darling-tanuki-b1882a/deploys)
+
+Joined Forces for a smooth portfolo & presentation of me!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db9c57d3-4ea8-47ea-8055-05d242f0f793/deploy-status)](https://app.netlify.com/sites/darling-tanuki-b1882a/deploys)
+
+
 After you make a fast web site, keep it fast by measuring it over time. Read [Use Speedlify to Continuously Measure Site Performance](https://www.zachleat.com/web/speedlify/). Created by [@zachleat](https://www.zachleat.com/).
 
 * Requires Node 12+
